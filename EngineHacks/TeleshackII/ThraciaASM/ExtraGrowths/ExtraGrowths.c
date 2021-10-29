@@ -4,7 +4,7 @@
 
 #define REROLL_ATTEMPTS 1;
 
-extern u8 Class_Level_Cap_Table[];
+extern u8 ClassLevelCapTable[];
 extern u8 CharacterMovGrowthTable[];
 extern u8 CharacterConGrowthTable[];
 
@@ -13,7 +13,7 @@ void New_WriteGrowthsToBattleStruct(BattleUnit* battleUnit){
 
 		battleUnit->unit.level += 1;
 
-		if (battleUnit->unit.level == Class_Level_Cap_Table[battleUnit->unit.pClassData->number]){
+		if (battleUnit->unit.level == ClassLevelCapTable[battleUnit->unit.pClassData->number]){
 			battleUnit->expGain -= (battleUnit->unit.exp - 100);
 			battleUnit->unit.exp = 0xFF;
 		}

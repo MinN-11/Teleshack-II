@@ -2,17 +2,17 @@
 .org 0x0	@not necessary if 0, but I put it anyway out of habit
 
 @setting up the literal pool
-.equ Get_Hp_Growth, Class_Level_Cap_Table+4
-.equ Get_Str_Growth, Class_Level_Cap_Table+8
-.equ Get_Mag_Growth, Class_Level_Cap_Table+12 @ If strmag split isn't installed, this will be 0, and code inserted in here will do nothing.
-.equ Get_Skl_Growth, Class_Level_Cap_Table+16
-.equ Get_Spd_Growth, Class_Level_Cap_Table+20
-.equ Get_Def_Growth, Class_Level_Cap_Table+24
-.equ Get_Res_Growth, Class_Level_Cap_Table+28
-.equ Get_Luk_Growth, Class_Level_Cap_Table+32
-.equ Get_Con_Growth, Class_Level_Cap_Table+36
-.equ Get_Mov_Growth, Class_Level_Cap_Table+40
-.equ Growth_Options, Class_Level_Cap_Table+44
+.equ Get_Hp_Growth, ClassLevelCapTable+4
+.equ Get_Str_Growth, ClassLevelCapTable+8
+.equ Get_Mag_Growth, ClassLevelCapTable+12 @ If strmag split isn't installed, this will be 0, and code inserted in here will do nothing.
+.equ Get_Skl_Growth, ClassLevelCapTable+16
+.equ Get_Spd_Growth, ClassLevelCapTable+20
+.equ Get_Def_Growth, ClassLevelCapTable+24
+.equ Get_Res_Growth, ClassLevelCapTable+28
+.equ Get_Luk_Growth, ClassLevelCapTable+32
+.equ Get_Con_Growth, ClassLevelCapTable+36
+.equ Get_Mov_Growth, ClassLevelCapTable+40
+.equ Growth_Options, ClassLevelCapTable+44
 
 @jumped here from 2BA28
 @r0=battle struct of person who's levelling up
@@ -37,7 +37,7 @@ add		r1,#1			@ add 1 to the unit's level
 strb	r1,[r7,#0x8]	@ and SToRe that Byte back to r7+0x8
 ldr		r2,[r7,#0x4]	@ load register r2 (with word) (it's not written, but it's implied) at r7+4. This is the character's (ROM) class data pointer
 ldrb	r2,[r2,#0x4]	@ load register r2 with the byte at address (r2 + 4). If you look at the Class Editor.nmm, the 4th byte is the class number
-ldr		r3,Class_Level_Cap_Table	@ our table containing the level cap for each class
+ldr		r3,ClassLevelCapTable	@ our table containing the level cap for each class
 ldrb	r2,[r3,r2]		@ load reg r2 with the byte contained at the address (r3 + r2), which would be the class's level cap
 cmp		r1,r2			@ compare new level with cap
 blt		Label3			@ branch if less than to Label3
@@ -417,5 +417,5 @@ Check_Caps_Func:
 .long 0x0802BF24
 Check_Event_ID:
 .long 0x08083DA8
-Class_Level_Cap_Table:
+ClassLevelCapTable:
 @

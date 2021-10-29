@@ -256,7 +256,7 @@
   //ALIGN 4
   //Write_Growths_To_Battle_Struct:
     //#incbin "asm/Write_Growths_To_Battle_Struct.dmp"
-        //POIN Class_Level_Cap_Table Get_Hp_Growth Get_Str_Growth
+        //POIN ClassLevelCapTable Get_Hp_Growth Get_Str_Growth
 	#ifdef USE_STRMAG_SPLIT
 		POIN Get_Mag_Growth
 	#else
@@ -268,8 +268,8 @@
   ALIGN 4
 /*
   This has been moved to a CSV
-  Class_Level_Cap_Table:
-    #incbin "Display Growths Options/Class_Level_Cap_Table.dmp"
+  ClassLevelCapTable:
+    #incbin "Display Growths Options/ClassLevelCapTable.dmp"
 */
   ALIGN 4
   Enemy_Autolevel:
@@ -279,7 +279,7 @@
   ALIGN 4
   New_Unit_Exp:
     #incbin "asm/New_Unit_Exp.dmp"
-    POIN Class_Level_Cap_Table
+    POIN ClassLevelCapTable
 
   ALIGN 4
   Growth_Color_Table:

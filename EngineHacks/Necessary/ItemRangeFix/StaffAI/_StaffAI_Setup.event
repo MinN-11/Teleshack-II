@@ -1,31 +1,31 @@
 #ifndef _StaffAITemplate
 	#define _StaffAITemplate
 	/* comment out if using the nightmare csvs
-	#ifndef AI_ItemArray
-		#define AI_ItemArray 0xD86F4
+	#ifndef AIItemArray
+		#define AIItemArray 0xD86F4
 	#endif
-	#ifndef AI_StaffArray
-		#define AI_StaffArray 0xD868C
+	#ifndef AIStaffArray
+		#define AIStaffArray 0xD868C
 	#endif
 	*/
 
 	//macros for manually updating ai tables
-	#define SetItemAI(index, Item_ID, pointer) "PUSH; ORG (AI_ItemArray + (index * 8)); WORD Item_ID; POIN pointer; POP;"
-	#define SetStaffAI(index, Item_ID, pointer) "PUSH; ORG (AI_StaffArray + (index * 8)); WORD Item_ID; POIN pointer; POP;"
+	#define SetItemAI(index, Item_ID, pointer) "PUSH; ORG (AIItemArray + (index * 8)); WORD Item_ID; POIN pointer; POP;"
+	#define SetStaffAI(index, Item_ID, pointer) "PUSH; ORG (AIStaffArray + (index * 8)); WORD Item_ID; POIN pointer; POP;"
 	
 	#ifndef ItemEffectRevamp
 	PUSH
 		//repoint ai item tables
 			ORG $3FA3C
-			POIN AI_StaffArray
+			POIN AIStaffArray
 			ORG $3FAE0
-			POIN AI_StaffArray + 0x4
+			POIN AIStaffArray + 0x4
 			ORG $40820
-			POIN AI_ItemArray
+			POIN AIItemArray
 			ORG $40840
-			POIN AI_ItemArray
+			POIN AIItemArray
 			ORG $408C8
-			POIN AI_ItemArray + 0x4
+			POIN AIItemArray + 0x4
 	POP
 	#endif
 	

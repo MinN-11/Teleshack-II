@@ -27,7 +27,7 @@
 	B(EIDJump)
 	IEIDJump:
 	SHORT 0x4718	//bx r3
-	POIN IERevampTable
+	POIN ItemEffectRevampTable
 	POIN Item_GetStat_EffectID | 1
 	
 	/*
@@ -87,7 +87,7 @@
 		B($2F83A)
 		
 		ORG $2F8B4
-		POIN IBArray
+		POIN ItemBoxArray
 		
 	
 	POP

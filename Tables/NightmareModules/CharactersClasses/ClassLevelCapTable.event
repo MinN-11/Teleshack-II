@@ -3,7 +3,7 @@
 PUSH
 POP
 ALIGN 4
-Class_Level_Cap_Table:
+ClassLevelCapTable:
 _C2EA_ClassLevelCapTable(0x14)
 _C2EA_ClassLevelCapTable(0x14)
 _C2EA_ClassLevelCapTable(0x14)

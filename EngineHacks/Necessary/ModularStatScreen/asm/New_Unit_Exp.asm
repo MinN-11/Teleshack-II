@@ -12,7 +12,7 @@ tst		r0,r1
 bne		GoBack
 ldr		r0,[r4,#0x4]
 ldrb	r0,[r0,#0x4]		@class number
-ldr		r1,Class_Level_Cap_Table
+ldr		r1,ClassLevelCapTable
 ldrb	r1,[r1,r0]
 ldrb	r0,[r4,#0x8]		@level
 cmp		r0,r1
@@ -24,5 +24,5 @@ pop		{r1}
 bx		r1
 
 .align
-Class_Level_Cap_Table:
+ClassLevelCapTable:
 @

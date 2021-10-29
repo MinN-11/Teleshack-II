@@ -1,8 +1,8 @@
 .thumb
 .align
 
-.global AdvWeaponLocks
-.type AdvWeaponLocks, %function
+.global WeaponLockArrayPointerTable
+.type WeaponLockArrayPointerTable, %function
 AdvWeaponLocks: @return usability bool in r0
 
 push {r4-r7,r14}

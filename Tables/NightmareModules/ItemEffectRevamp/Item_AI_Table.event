@@ -2,12 +2,12 @@
 
 PUSH
 ORG $40820
-POIN AI_ItemArray
+POIN AIItemArray
 ORG $40840
-POIN AI_ItemArray
+POIN AIItemArray
 POP
 ALIGN 4
-AI_ItemArray:
+AIItemArray:
 _C2EA_Item_AI_Table(0x1f,0x0 0x0 0x0,0x80408dd)
 _C2EA_Item_AI_Table(0x20,0x0 0x0 0x0,0x8040975)
 _C2EA_Item_AI_Table(0x24,0x0 0x0 0x0,0x8040a79)

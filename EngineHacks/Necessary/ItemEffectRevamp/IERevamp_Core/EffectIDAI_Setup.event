@@ -57,10 +57,10 @@
 		BL(Item_GetStat_EffectID)
 		
 		ORG 0x3FA3C
-		POIN AI_StaffArray
+		POIN AIStaffArray
 		
 		ORG 0x3FAE0
-		POIN AI_StaffArray + 0x4
+		POIN AIStaffArray + 0x4
 		
 	POP
 	
@@ -70,11 +70,11 @@
 	ORG $407F8
 		BL(Item_GetStat_EffectID)
 		ORG $40820
-		POIN AI_ItemArray
+		POIN AIItemArray
 		ORG $40840
-		POIN AI_ItemArray
+		POIN AIItemArray
 		ORG $408C8
-		POIN AI_ItemArray + 0x4
+		POIN AIItemArray + 0x4
 	
 	POP
 	

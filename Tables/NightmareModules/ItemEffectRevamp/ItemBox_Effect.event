@@ -3,7 +3,7 @@
 PUSH
 POP
 ALIGN 4
-IBArray:
+ItemBoxArray:
 _C2EA_ItemBox_Effect(0x802F90C)
 _C2EA_ItemBox_Effect(0x802F90C)
 _C2EA_ItemBox_Effect(0x802F90C)

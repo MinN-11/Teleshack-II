@@ -1,4 +1,4 @@
-INLINE IBArray,Statboster Text Routine Pointer
+INLINE ItemBoxArray,Statboster Text Routine Pointer
 Default/ No Effect,0x802F90C
 Heal,0x802F90C
 Mend,0x802F90C

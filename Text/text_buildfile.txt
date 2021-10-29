@@ -9,7 +9,6 @@ HP Bars[.][X]
 Set health bar display[X]
 
 #0x3A LearnedSkillText
-#first text ID in the free block
 Learned  [X]
 
 #include "statscreen_text.txt"
@@ -17,7 +16,6 @@ Learned  [X]
 #include "unitmenu_text.txt"
 
 #0xd4c LikesText
-#first text ID in the free block
 Likes:[X]
 
 #0xd4d DislikesText
@@ -38,7 +36,6 @@ Empower[.][X]
 [X]
 
 ## HouseText
-#first text ID in the free block
 [MidRight][LoadFace][CurrentPortrait]Nothing to see here.[A][X]
 
 ## VillageText
@@ -159,6 +156,7 @@ Dragana's cell.[X]
 #include "statusdesc_text.txt"
 
 #include "skilldesc_text.txt"
+
 #include "custom_skilldesc.txt"
 
 #include "escapequotes.txt"
