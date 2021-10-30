@@ -63,16 +63,16 @@ But[Beat] But[Beat][A][CloseEyes][X]
 Easy come[Beat][N]
 Easy go[Beat][AN][CloseEyes][X]
 
+## LongxiaDeathQuoteText
+[MidRight][LoadLongxia]
+Graaa...[AN][X]
+
+## FangaiDeathQuoteText
+[MidRight][LoadFangai]
+But supper is still...[N]
+cooking... yurrghh...[AN][X]
+
 ## RigganDeathQuoteText
 [MidLeft][LoadRiggan]
 No, no, no, a thousand[N]
 times no, I say! No...[AN][X]
-
-//## LongxiaDeathQuoteText
-//[MidRight][LoadLongxia]
-//Graaa[Beat][AN][CloseEyes][X]
-
-//## FangaiDeathQuoteText
-//[MidRight][LoadFangai]
-//But supper is still[Beat][N]
-//cooking[Beat] yurrghh...[AN][CloseEyes][X]
