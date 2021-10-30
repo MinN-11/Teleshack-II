@@ -1,0 +1,12 @@
+{
+    "name": "Torch",
+    "type": "Item",
+    "uses": 5,
+    "might": 0,
+    "hit": 0,
+    "weight": 0,
+    "crit": 0,
+    "range": 1,
+    "price": 100,
+    "wexp": 0
+}

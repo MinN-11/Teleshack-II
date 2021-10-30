@@ -1,0 +1,12 @@
+{
+    "name": "Thoron",
+    "type": "Anima",
+    "uses": 10,
+    "might": 18,
+    "hit": 70,
+    "weight": 7,
+    "crit": 20,
+    "range": [1, 2],
+    "price": 300,
+    "rank": "A"
+}

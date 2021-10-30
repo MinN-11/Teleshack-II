@@ -1,0 +1,12 @@
+{
+    "name": "Short Sword",
+    "type": "Sword",
+    "uses": 40,
+    "might": 6,
+    "hit": 75,
+    "weight": 8,
+    "crit": 0,
+    "range": 1,
+    "price": 0,
+    "rank": "E"
+}

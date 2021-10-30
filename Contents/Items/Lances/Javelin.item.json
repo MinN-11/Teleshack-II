@@ -1,0 +1,12 @@
+{
+    "name": "Javelin",
+    "type": "Lance",
+    "uses": 20,
+    "might": 6,
+    "hit": 50,
+    "weight": 12,
+    "crit": 0,
+    "range": [1, 2],
+    "price": 20,
+    "rank": "D"
+}

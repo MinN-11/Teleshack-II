@@ -1,0 +1,12 @@
+{
+    "name": "Brave Lance",
+    "type": "Lance",
+    "uses": 60,
+    "might": 13,
+    "hit": 70,
+    "weight": 9,
+    "crit": 10,
+    "range": 1,
+    "price": 250,
+    "rank": "A"
+}

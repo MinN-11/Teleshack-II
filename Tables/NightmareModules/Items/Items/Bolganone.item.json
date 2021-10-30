@@ -1,0 +1,12 @@
+{
+    "name": "Bolganone",
+    "type": "Anima",
+    "uses": 10,
+    "might": 20,
+    "hit": 90,
+    "weight": 18,
+    "crit": 0,
+    "range": [1, 2],
+    "price": 220,
+    "rank": "A"
+}

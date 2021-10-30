@@ -1,0 +1,12 @@
+{
+    "name": "Demon Stone (DUMMY)",
+    "type": "Monster",
+    "uses": 0,
+    "might": 10,
+    "hit": 65,
+    "weight": 0,
+    "crit": 0,
+    "range": 1,
+    "price": 0,
+    "wexp": 0
+}

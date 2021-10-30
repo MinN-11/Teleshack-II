@@ -1,0 +1,13 @@
+{
+    "name": "Fortify",
+    "type": "Staff",
+    "uses": 8,
+    "might": 0,
+    "hit": 100,
+    "weight": 7,
+    "crit": 0,
+    "range": "all",
+    "price": 1000,
+    "rank": "B",
+    "wexp": 5
+}

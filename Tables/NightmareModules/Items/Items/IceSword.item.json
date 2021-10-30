@@ -1,0 +1,12 @@
+{
+    "name": "Ice Sword",
+    "type": "Sword",
+    "uses": 40,
+    "might": 9,
+    "hit": 70,
+    "weight": 9,
+    "crit": 0,
+    "range": [1, 2],
+    "price": 50,
+    "rank": "B"
+}

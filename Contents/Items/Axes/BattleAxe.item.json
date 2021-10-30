@@ -1,0 +1,11 @@
+{
+    "name": "Battle Axe",
+    "type": "Axe",
+    "uses": 20,
+    "might": 15,
+    "hit": 60,
+    "weight": 16,
+    "crit": 10,
+    "range": 1,
+    "price": 50
+}

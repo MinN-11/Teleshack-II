@@ -1,0 +1,12 @@
+{
+    "name": "Slim Lance",
+    "type": "Lance",
+    "uses": 20,
+    "might": 4,
+    "hit": 100,
+    "weight": 6,
+    "crit": 0,
+    "range": 1,
+    "price": 15,
+    "rank": "E"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Hurlbat",
+    "type": "Axe",
+    "uses": 30,
+    "might": 5,
+    "hit": 75,
+    "weight": 5,
+    "crit": 5,
+    "range": [2, 3],
+    "price": 50,
+    "rank": "D"
+}

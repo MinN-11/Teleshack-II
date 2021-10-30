@@ -1,0 +1,12 @@
+{
+    "name": "Purge",
+    "type": "Light",
+    "uses": 5,
+    "might": 10,
+    "hit": 75,
+    "weight": 20,
+    "crit": 0,
+    "range": [3, 10],
+    "price": 600,
+    "rank": "A"
+}

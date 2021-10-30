@@ -1,0 +1,13 @@
+{
+    "name": "Sleep",
+    "type": "Staff",
+    "uses": 3,
+    "might": 0,
+    "hit": 65,
+    "weight": 8,
+    "crit": 0,
+    "range": "all",
+    "price": 500,
+    "rank": "C",
+    "wexp": 3
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Black Gem",
+    "type": "Item",
+    "uses": 1,
+    "might": 0,
+    "hit": 0,
+    "weight": 0,
+    "crit": 0,
+    "range": 1,
+    "price": 20000,
+    "wexp": 0
+}

@@ -1,0 +1,11 @@
+{
+    "name": "WifeRing",
+    "type": "Item",
+    "uses": 1,
+    "might": 0,
+    "hit": 0,
+    "weight": 20,
+    "crit": 0,
+    "range": 1,
+    "price": 2000
+}

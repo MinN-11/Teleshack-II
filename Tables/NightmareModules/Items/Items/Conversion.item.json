@@ -1,0 +1,12 @@
+{
+    "name": "Conversion",
+    "type": "Dark",
+    "uses": 15,
+    "might": 8,
+    "hit": 70,
+    "weight": 5,
+    "crit": 0,
+    "range": [1, 2],
+    "price": 200,
+    "rank": "B"
+}

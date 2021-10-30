@@ -1,0 +1,11 @@
+{
+    "name": "Argilabrys",
+    "type": "Axe",
+    "uses": 40,
+    "might": 4,
+    "hit": 90,
+    "weight": 8,
+    "crit": 0,
+    "range": 1,
+    "price": 0
+}

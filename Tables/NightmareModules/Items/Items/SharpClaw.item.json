@@ -1,0 +1,12 @@
+{
+    "name": "Sharp Claw",
+    "type": "Sword",
+    "uses": 1,
+    "might": 0,
+    "hit": 0,
+    "weight": 0,
+    "crit": 0,
+    "range": 1,
+    "price": 10000,
+    "wexp": 0
+}

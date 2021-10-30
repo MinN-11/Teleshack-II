@@ -1,0 +1,12 @@
+{
+    "name": "Greatsword",
+    "type": "Sword",
+    "uses": 20,
+    "might": 15,
+    "hit": 55,
+    "weight": 16,
+    "crit": 0,
+    "range": 1,
+    "price": 100,
+    "rank": "A"
+}

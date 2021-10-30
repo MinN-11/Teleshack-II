@@ -1,0 +1,12 @@
+{
+    "name": "Master Lance",
+    "type": "Lance",
+    "uses": 20,
+    "might": 14,
+    "hit": 55,
+    "weight": 16,
+    "crit": 0,
+    "range": [1, 2],
+    "price": 140,
+    "rank": "A"
+}

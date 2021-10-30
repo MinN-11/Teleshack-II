@@ -1,0 +1,12 @@
+{
+    "name": "Slim Sword",
+    "type": "Sword",
+    "uses": 30,
+    "might": 3,
+    "hit": 100,
+    "weight": 2,
+    "crit": 0,
+    "range": 1,
+    "price": 15,
+    "rank": "E"
+}

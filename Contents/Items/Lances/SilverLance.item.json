@@ -1,0 +1,12 @@
+{
+    "name": "Silver Lance",
+    "type": "Lance",
+    "uses": 20,
+    "might": 15,
+    "hit": 75,
+    "weight": 10,
+    "crit": 0,
+    "range": 1,
+    "price": 60,
+    "rank": "B"
+}

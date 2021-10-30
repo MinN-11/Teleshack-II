@@ -1,0 +1,12 @@
+{
+    "name": "Bolting",
+    "type": "Anima",
+    "uses": 5,
+    "might": 10,
+    "hit": 70,
+    "weight": 20,
+    "crit": 20,
+    "range": [3, 10],
+    "price": 500,
+    "rank": "A"
+}

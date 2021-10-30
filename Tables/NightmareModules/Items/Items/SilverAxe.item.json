@@ -1,0 +1,12 @@
+{
+    "name": "Silver Axe",
+    "type": "Axe",
+    "uses": 20,
+    "might": 18,
+    "hit": 65,
+    "weight": 12,
+    "crit": 0,
+    "range": 1,
+    "price": 50,
+    "rank": "B"
+}

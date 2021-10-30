@@ -1,0 +1,11 @@
+{
+    "name": "Heavy Lance",
+    "type": "Lance",
+    "uses": 16,
+    "might": 9,
+    "hit": 70,
+    "weight": 14,
+    "crit": 0,
+    "range": 1,
+    "price": 75
+}

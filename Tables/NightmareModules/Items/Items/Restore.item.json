@@ -1,0 +1,13 @@
+{
+    "name": "Restore",
+    "type": "Staff",
+    "uses": 10,
+    "might": 0,
+    "hit": 100,
+    "weight": 4,
+    "crit": 0,
+    "range": 1,
+    "price": 200,
+    "rank": "C",
+    "wexp": 3
+}

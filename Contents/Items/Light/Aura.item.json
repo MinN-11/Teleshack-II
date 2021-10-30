@@ -1,0 +1,12 @@
+{
+    "name": "Aura",
+    "type": "Light",
+    "uses": 20,
+    "might": 20,
+    "hit": 90,
+    "weight": 10,
+    "crit": 15,
+    "range": [1, 2],
+    "price": 400,
+    "rank": "A"
+}

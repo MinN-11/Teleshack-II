@@ -1,0 +1,12 @@
+{
+    "name": "Iron Blade",
+    "type": "Sword",
+    "uses": 30,
+    "might": 12,
+    "hit": 55,
+    "weight": 15,
+    "crit": 0,
+    "range": 1,
+    "price": 30,
+    "rank": "C"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Brave Sword",
+    "type": "Sword",
+    "uses": 60,
+    "might": 15,
+    "hit": 75,
+    "weight": 14,
+    "crit": 0,
+    "range": 1,
+    "price": 250,
+    "rank": "B"
+}

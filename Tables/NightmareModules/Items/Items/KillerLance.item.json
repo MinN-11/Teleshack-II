@@ -1,0 +1,12 @@
+{
+    "name": "Killer Lance",
+    "type": "Lance",
+    "uses": 20,
+    "might": 12,
+    "hit": 80,
+    "weight": 10,
+    "crit": 30,
+    "range": 1,
+    "price": 60,
+    "rank": "C"
+}

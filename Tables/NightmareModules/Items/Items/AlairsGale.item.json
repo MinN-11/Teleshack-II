@@ -1,0 +1,12 @@
+{
+    "name": "Alair's Gale",
+    "type": "Anima",
+    "uses": 30,
+    "might": 2,
+    "hit": 80,
+    "weight": 2,
+    "crit": 10,
+    "range": 2,
+    "price": 60,
+    "rank": "C"
+}

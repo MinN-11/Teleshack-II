@@ -1,0 +1,12 @@
+{
+    "name": "Longsword",
+    "type": "Sword",
+    "uses": 30,
+    "might": 10,
+    "hit": 65,
+    "weight": 12,
+    "crit": 0,
+    "range": 1,
+    "price": 20,
+    "rank": "D"
+}

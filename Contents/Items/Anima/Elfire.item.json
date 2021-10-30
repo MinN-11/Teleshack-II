@@ -1,0 +1,12 @@
+{
+    "name": "Elfire",
+    "type": "Anima",
+    "uses": 20,
+    "might": 11,
+    "hit": 60,
+    "weight": 5,
+    "crit": 0,
+    "range": [1, 2],
+    "price": 40,
+    "rank": "C"
+}

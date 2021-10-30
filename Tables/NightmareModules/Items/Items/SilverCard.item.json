@@ -1,0 +1,12 @@
+{
+    "name": "Silver Card",
+    "type": "Item",
+    "uses": 1,
+    "might": 0,
+    "hit": 0,
+    "weight": 0,
+    "crit": 0,
+    "range": 1,
+    "price": 4000,
+    "wexp": 0
+}

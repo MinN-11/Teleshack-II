@@ -1,0 +1,12 @@
+{
+    "name": "Counter Bow",
+    "type": "Bow",
+    "uses": 20,
+    "might": 7,
+    "hit": 65,
+    "weight": 8,
+    "crit": 0,
+    "range": 2,
+    "price": 95,
+    "rank": "B"
+}

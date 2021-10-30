@@ -1,0 +1,12 @@
+{
+    "name": "Dullahan",
+    "type": "Sword",
+    "uses": 30,
+    "might": 10,
+    "hit": 50,
+    "weight": 14,
+    "crit": 0,
+    "range": 1,
+    "price": 0,
+    "rank": "E"
+}

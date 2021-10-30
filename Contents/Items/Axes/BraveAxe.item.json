@@ -1,0 +1,12 @@
+{
+    "name": "Brave Axe",
+    "type": "Axe",
+    "uses": 60,
+    "might": 14,
+    "hit": 70,
+    "weight": 12,
+    "crit": 0,
+    "range": 1,
+    "price": 250,
+    "rank": "B"
+}

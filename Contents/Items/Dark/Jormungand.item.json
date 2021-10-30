@@ -1,0 +1,12 @@
+{
+    "name": "Jormungand",
+    "type": "Dark",
+    "uses": 20,
+    "might": 14,
+    "hit": 70,
+    "weight": 10,
+    "crit": 10,
+    "range": [1, 2],
+    "price": 160,
+    "rank": "C"
+}

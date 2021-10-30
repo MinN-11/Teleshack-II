@@ -1,0 +1,12 @@
+{
+    "name": "Paragon Sword",
+    "type": "Sword",
+    "uses": 40,
+    "might": 9,
+    "hit": 65,
+    "weight": 9,
+    "crit": 0,
+    "range": 1,
+    "price": 150,
+    "rank": "E"
+}

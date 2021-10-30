@@ -1,0 +1,13 @@
+{
+    "name": "Blizzard",
+    "type": "Anima",
+    "uses": 5,
+    "might": 9,
+    "hit": 70,
+    "weight": 20,
+    "crit": 0,
+    "range": [3, 10],
+    "price": 30,
+    "rank": "A",
+    "wexp": 2
+}

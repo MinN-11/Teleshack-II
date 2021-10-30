@@ -1,0 +1,12 @@
+{
+    "name": "Killer Arch",
+    "type": "Bow",
+    "uses": 10,
+    "might": 12,
+    "hit": 75,
+    "weight": 20,
+    "crit": 20,
+    "range": [3, 10],
+    "price": 420,
+    "rank": "C"
+}

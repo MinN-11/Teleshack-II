@@ -1,0 +1,13 @@
+{
+    "name": "Hammer",
+    "type": "Axe",
+    "uses": 20,
+    "might": 12,
+    "hit": 50,
+    "weight": 18,
+    "crit": 0,
+    "range": 1,
+    "price": 40,
+    "rank": "C",
+    "wexp": 2
+}

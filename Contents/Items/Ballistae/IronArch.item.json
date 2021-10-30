@@ -1,0 +1,12 @@
+{
+    "name": "Iron Arch",
+    "type": "Bow",
+    "uses": 10,
+    "might": 20,
+    "hit": 75,
+    "weight": 20,
+    "crit": 0,
+    "range": [3, 15],
+    "price": 420,
+    "rank": "D"
+}

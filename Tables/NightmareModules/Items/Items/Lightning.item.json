@@ -1,0 +1,12 @@
+{
+    "name": "Lightning",
+    "type": "Light",
+    "uses": 20,
+    "might": 9,
+    "hit": 75,
+    "weight": 4,
+    "crit": 20,
+    "range": [1, 2],
+    "price": 160,
+    "rank": "E"
+}

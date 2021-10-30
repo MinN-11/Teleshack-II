@@ -1,0 +1,12 @@
+{
+    "name": "Stone",
+    "type": "Dark",
+    "uses": 5,
+    "might": 0,
+    "hit": 65,
+    "weight": 8,
+    "crit": 0,
+    "range": [1, 3],
+    "price": 0,
+    "wexp": 5
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Horseslayer",
+    "type": "Lance",
+    "uses": 20,
+    "might": 14,
+    "hit": 60,
+    "weight": 13,
+    "crit": 0,
+    "range": 1,
+    "price": 65,
+    "rank": "B"
+}

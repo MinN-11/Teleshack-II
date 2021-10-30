@@ -1,0 +1,12 @@
+{
+    "name": "Longbow",
+    "type": "Bow",
+    "uses": 20,
+    "might": 10,
+    "hit": 65,
+    "weight": 11,
+    "crit": 0,
+    "range": 2,
+    "price": 100,
+    "rank": "D"
+}

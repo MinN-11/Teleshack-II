@@ -1,0 +1,12 @@
+{
+    "name": "Fenrir",
+    "type": "Dark",
+    "uses": 5,
+    "might": 18,
+    "hit": 80,
+    "weight": 20,
+    "crit": 0,
+    "range": [3, 10],
+    "price": 800,
+    "rank": "A"
+}

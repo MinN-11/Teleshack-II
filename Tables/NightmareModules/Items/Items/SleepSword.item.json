@@ -1,0 +1,12 @@
+{
+    "name": "Sleep Sword",
+    "type": "Sword",
+    "uses": 10,
+    "might": 8,
+    "hit": 55,
+    "weight": 20,
+    "crit": 0,
+    "range": 1,
+    "price": 200,
+    "rank": "A"
+}

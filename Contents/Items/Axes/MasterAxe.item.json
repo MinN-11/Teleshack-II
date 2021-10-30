@@ -1,0 +1,12 @@
+{
+    "name": "Master Axe",
+    "type": "Axe",
+    "uses": 20,
+    "might": 15,
+    "hit": 55,
+    "weight": 16,
+    "crit": 0,
+    "range": [1, 2],
+    "price": 200,
+    "rank": "A"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Thunder",
+    "type": "Anima",
+    "uses": 30,
+    "might": 7,
+    "hit": 60,
+    "weight": 3,
+    "crit": 0,
+    "range": [1, 2],
+    "price": 20,
+    "rank": "E"
+}

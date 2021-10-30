@@ -1,0 +1,13 @@
+{
+    "name": "Rescue",
+    "type": "Staff",
+    "uses": 3,
+    "might": 0,
+    "hit": 100,
+    "weight": 6,
+    "crit": 0,
+    "range": "all",
+    "price": 600,
+    "rank": "B",
+    "wexp": 4
+}

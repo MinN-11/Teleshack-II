@@ -1,0 +1,12 @@
+{
+    "name": "Wind",
+    "type": "Anima",
+    "uses": 20,
+    "might": 6,
+    "hit": 90,
+    "weight": 1,
+    "crit": 10,
+    "range": [1, 2],
+    "price": 110,
+    "rank": "D"
+}

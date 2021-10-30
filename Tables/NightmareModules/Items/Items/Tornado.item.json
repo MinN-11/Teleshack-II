@@ -1,0 +1,12 @@
+{
+    "name": "Tornado",
+    "type": "Anima",
+    "uses": 10,
+    "might": 18,
+    "hit": 80,
+    "weight": 8,
+    "crit": 0,
+    "range": [1, 2],
+    "price": 220,
+    "rank": "A"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Thief",
+    "type": "Staff",
+    "uses": 3,
+    "might": 0,
+    "hit": 100,
+    "weight": 5,
+    "crit": 0,
+    "range": "all",
+    "price": 10000,
+    "rank": "A",
+    "wexp": 5
+}

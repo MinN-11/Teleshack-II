@@ -46,7 +46,7 @@ Freeze all enemies[N]
 for one turn[X]
 
 ## nameCamus
-#for identity problems
+//for identity problems
 Camus[X]
 
 ## nameSirius

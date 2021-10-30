@@ -1,0 +1,12 @@
+{
+    "name": "Iron Sword",
+    "type": "Sword",
+    "uses": 40,
+    "might": 6,
+    "hit": 70,
+    "weight": 6,
+    "crit": 0,
+    "range": 1,
+    "price": 10,
+    "rank": "E"
+}

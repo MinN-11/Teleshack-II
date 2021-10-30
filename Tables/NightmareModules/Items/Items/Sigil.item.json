@@ -1,0 +1,13 @@
+{
+    "name": "Sigil ",
+    "type": "Staff",
+    "uses": 10,
+    "might": 0,
+    "hit": 100,
+    "weight": 6,
+    "crit": 0,
+    "range": "staff",
+    "price": 140,
+    "rank": "C",
+    "wexp": 3
+}

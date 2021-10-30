@@ -1,0 +1,12 @@
+{
+    "name": "SlimAxe",
+    "type": "Axe",
+    "uses": 20,
+    "might": 6,
+    "hit": 80,
+    "weight": 7,
+    "crit": 0,
+    "range": 1,
+    "price": 10,
+    "rank": "E"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Brave Bow",
+    "type": "Bow",
+    "uses": 60,
+    "might": 14,
+    "hit": 95,
+    "weight": 10,
+    "crit": 20,
+    "range": 2,
+    "price": 250,
+    "rank": "B"
+}

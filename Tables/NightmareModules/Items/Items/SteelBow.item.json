@@ -1,0 +1,12 @@
+{
+    "name": "Steel Bow",
+    "type": "Bow",
+    "uses": 30,
+    "might": 10,
+    "hit": 60,
+    "weight": 12,
+    "crit": 0,
+    "range": 2,
+    "price": 24,
+    "rank": "D"
+}

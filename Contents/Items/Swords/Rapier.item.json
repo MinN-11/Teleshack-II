@@ -1,0 +1,12 @@
+{
+    "name": "Rapier",
+    "type": "Sword",
+    "uses": 20,
+    "might": 4,
+    "hit": 90,
+    "weight": 3,
+    "crit": 10,
+    "range": 1,
+    "price": 50,
+    "rank": "C"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Steel Sword",
+    "type": "Sword",
+    "uses": 30,
+    "might": 9,
+    "hit": 65,
+    "weight": 11,
+    "crit": 0,
+    "range": 1,
+    "price": 20,
+    "rank": "D"
+}

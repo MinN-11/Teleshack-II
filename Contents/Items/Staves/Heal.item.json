@@ -1,0 +1,12 @@
+{
+    "name": "Heal",
+    "type": "Staff",
+    "uses": 20,
+    "might": 0,
+    "hit": 100,
+    "weight": 4,
+    "crit": 0,
+    "range": 1,
+    "price": 20,
+    "rank": "E"
+}

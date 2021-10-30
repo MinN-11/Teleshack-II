@@ -1,0 +1,12 @@
+{
+    "name": "Dragonstone",
+    "type": "Monster",
+    "uses": 50,
+    "might": 16,
+    "hit": 100,
+    "weight": 0,
+    "crit": 15,
+    "range": 1,
+    "price": 0,
+    "wexp": 0
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Berserk",
+    "type": "Staff",
+    "uses": 3,
+    "might": 0,
+    "hit": 60,
+    "weight": 8,
+    "crit": 0,
+    "range": "all",
+    "price": 600,
+    "rank": "A",
+    "wexp": 4
+}

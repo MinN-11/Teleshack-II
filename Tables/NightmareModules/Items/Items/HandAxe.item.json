@@ -1,0 +1,12 @@
+{
+    "name": "Hand Axe",
+    "type": "Axe",
+    "uses": 20,
+    "might": 6,
+    "hit": 45,
+    "weight": 12,
+    "crit": 0,
+    "range": [1, 2],
+    "price": 15,
+    "rank": "D"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Unlock",
+    "type": "Staff",
+    "uses": 10,
+    "might": 0,
+    "hit": 100,
+    "weight": 7,
+    "crit": 0,
+    "range": "all",
+    "price": 150,
+    "rank": "D",
+    "wexp": 2
+}

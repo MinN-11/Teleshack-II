@@ -1,0 +1,12 @@
+{
+    "name": "Steel Axe",
+    "type": "Axe",
+    "uses": 25,
+    "might": 13,
+    "hit": 55,
+    "weight": 15,
+    "crit": 0,
+    "range": 1,
+    "price": 12,
+    "rank": "D"
+}

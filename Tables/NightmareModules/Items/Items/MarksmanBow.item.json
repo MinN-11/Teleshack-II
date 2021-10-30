@@ -1,0 +1,12 @@
+{
+    "name": "Marksman Bow",
+    "type": "Bow",
+    "uses": 25,
+    "might": 7,
+    "hit": 60,
+    "weight": 11,
+    "crit": 0,
+    "range": [2, 3],
+    "price": 30,
+    "rank": "C"
+}

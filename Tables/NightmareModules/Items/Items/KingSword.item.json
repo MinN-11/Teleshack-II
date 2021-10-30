@@ -1,0 +1,12 @@
+{
+    "name": "King Sword",
+    "type": "Sword",
+    "uses": 60,
+    "might": 9,
+    "hit": 70,
+    "weight": 10,
+    "crit": 10,
+    "range": 1,
+    "price": 60,
+    "rank": "C"
+}

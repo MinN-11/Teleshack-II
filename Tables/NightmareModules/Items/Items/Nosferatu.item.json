@@ -1,0 +1,12 @@
+{
+    "name": "Nosferatu",
+    "type": "Light",
+    "uses": 60,
+    "might": 12,
+    "hit": 65,
+    "weight": 10,
+    "crit": 0,
+    "range": [1, 2],
+    "price": 100,
+    "rank": "B"
+}

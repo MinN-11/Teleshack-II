@@ -1,0 +1,12 @@
+{
+    "name": "Poleaxe",
+    "type": "Axe",
+    "uses": 20,
+    "might": 15,
+    "hit": 60,
+    "weight": 17,
+    "crit": 0,
+    "range": 1,
+    "price": 45,
+    "rank": "C"
+}

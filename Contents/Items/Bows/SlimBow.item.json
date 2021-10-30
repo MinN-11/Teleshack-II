@@ -1,0 +1,12 @@
+{
+    "name": "Slim Bow",
+    "type": "Bow",
+    "uses": 30,
+    "might": 4,
+    "hit": 95,
+    "weight": 2,
+    "crit": 0,
+    "range": 2,
+    "price": 15,
+    "rank": "E"
+}

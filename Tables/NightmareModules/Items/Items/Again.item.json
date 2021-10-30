@@ -1,0 +1,13 @@
+{
+    "name": "Again",
+    "type": "Staff",
+    "uses": 3,
+    "might": 0,
+    "hit": 100,
+    "weight": 0,
+    "crit": 0,
+    "range": "all",
+    "price": 200,
+    "rank": "S",
+    "wexp": 0
+}

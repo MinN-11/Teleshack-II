@@ -1,0 +1,12 @@
+{
+    "name": "Silver Sword",
+    "type": "Sword",
+    "uses": 20,
+    "might": 14,
+    "hit": 75,
+    "weight": 8,
+    "crit": 0,
+    "range": 1,
+    "price": 75,
+    "rank": "B"
+}

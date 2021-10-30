@@ -1,0 +1,12 @@
+{
+    "name": "Silver Bow",
+    "type": "Bow",
+    "uses": 20,
+    "might": 15,
+    "hit": 70,
+    "weight": 9,
+    "crit": 0,
+    "range": 2,
+    "price": 80,
+    "rank": "B"
+}

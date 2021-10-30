@@ -1,0 +1,12 @@
+{
+    "name": "Iron Lance",
+    "type": "Lance",
+    "uses": 40,
+    "might": 7,
+    "hit": 70,
+    "weight": 9,
+    "crit": 0,
+    "range": 1,
+    "price": 15,
+    "rank": "E"
+}

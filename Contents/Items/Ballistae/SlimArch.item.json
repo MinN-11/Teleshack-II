@@ -1,0 +1,12 @@
+{
+    "name": "Slim Arch",
+    "type": "Bow",
+    "uses": 10,
+    "might": 10,
+    "hit": 80,
+    "weight": 20,
+    "crit": 0,
+    "range": [3, 7],
+    "price": 200,
+    "rank": "E"
+}

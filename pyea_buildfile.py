@@ -4,6 +4,7 @@ from pyEA import items
 from pyEA import classes
 from pyEA import units
 from pyEA import eaparser
+import pyEA.FE8.Patches.AntiHuffman as AntiHuffman
 
 eaparser.load_ea_definitions("EngineHacks/SkillSystem/skill_definitions.event")
 
@@ -14,13 +15,15 @@ FreeSpaceBLStream = NpStream(pyEA.BUFFER, FreeSpaceBLRange, FreeSpace1Length)
 FreeSpace1Stream = NpStream(pyEA.BUFFER, FreeSpace1, FreeSpace1Length)
 FreeSpace2Stream = NpStream(pyEA.BUFFER, FreeSpace2, FreeSpace2Length)
 EndSpaceStream = NpStream(pyEA.BUFFER, EndSpace, EndSpaceLength)
-
-text.populate()
 offset(FreeSpace2Stream)
+pyEA.text.build_narrowfont("PixelOperatorFE.ttf", "PixelOperatorU.ttf")
+text.populate()
 text.repoint_text_table()
 items.repoint_item_tables()
 classes.repoint_class_tables()
 units.repoint_unit_tables()
+
+AntiHuffman.install()
 
 pyEA.load_folder("Contents")
 

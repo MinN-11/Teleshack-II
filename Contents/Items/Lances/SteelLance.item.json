@@ -1,0 +1,12 @@
+{
+    "name": "Steel Lance",
+    "type": "Lance",
+    "uses": 30,
+    "might": 10,
+    "hit": 70,
+    "weight": 15,
+    "crit": 0,
+    "range": 1,
+    "price": 16,
+    "rank": "D"
+}

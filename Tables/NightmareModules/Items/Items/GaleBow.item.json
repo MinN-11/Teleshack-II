@@ -1,0 +1,12 @@
+{
+    "name": "GaleBow",
+    "type": "Bow",
+    "uses": 15,
+    "might": 6,
+    "hit": 65,
+    "weight": 10,
+    "crit": 0,
+    "range": [2, 3],
+    "price": 50,
+    "rank": "C"
+}

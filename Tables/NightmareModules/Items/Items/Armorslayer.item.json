@@ -1,0 +1,12 @@
+{
+    "name": "Armorslayer",
+    "type": "Sword",
+    "uses": 30,
+    "might": 10,
+    "hit": 60,
+    "weight": 12,
+    "crit": 0,
+    "range": 1,
+    "price": 70,
+    "rank": "B"
+}

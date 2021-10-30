@@ -1,0 +1,12 @@
+{
+    "name": "Claymore",
+    "type": "Sword",
+    "uses": 30,
+    "might": 11,
+    "hit": 70,
+    "weight": 13,
+    "crit": 0,
+    "range": 1,
+    "price": 20,
+    "rank": "B"
+}

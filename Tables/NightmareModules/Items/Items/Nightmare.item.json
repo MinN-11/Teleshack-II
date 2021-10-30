@@ -1,0 +1,12 @@
+{
+    "name": "Nightmare",
+    "type": "Staff",
+    "uses": 1,
+    "might": 0,
+    "hit": 70,
+    "weight": 8,
+    "crit": 0,
+    "range": [1, 3],
+    "price": 0,
+    "wexp": 0
+}

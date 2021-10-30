@@ -1,0 +1,12 @@
+{
+    "name": "Shortbow",
+    "type": "Bow",
+    "uses": 20,
+    "might": 5,
+    "hit": 75,
+    "weight": 6,
+    "crit": 0,
+    "range": 2,
+    "price": 100,
+    "rank": "E"
+}

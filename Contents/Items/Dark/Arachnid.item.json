@@ -1,0 +1,12 @@
+{
+    "name": "Arachnid",
+    "type": "Dark",
+    "uses": 35,
+    "might": 3,
+    "hit": 85,
+    "weight": 12,
+    "crit": 15,
+    "range": 1,
+    "price": 55,
+    "rank": "D"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Iron Bow",
+    "type": "Bow",
+    "uses": 40,
+    "might": 7,
+    "hit": 65,
+    "weight": 6,
+    "crit": 0,
+    "range": 2,
+    "price": 12,
+    "rank": "E"
+}

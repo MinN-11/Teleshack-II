@@ -1,0 +1,12 @@
+{
+    "name": "Iron Axe",
+    "type": "Axe",
+    "uses": 30,
+    "might": 9,
+    "hit": 65,
+    "weight": 10,
+    "crit": 0,
+    "range": 1,
+    "price": 6,
+    "rank": "E"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Long Arch",
+    "type": "Bow",
+    "uses": 10,
+    "might": 15,
+    "hit": 75,
+    "weight": 20,
+    "crit": 0,
+    "range": [3, 10],
+    "price": 220,
+    "rank": "E"
+}

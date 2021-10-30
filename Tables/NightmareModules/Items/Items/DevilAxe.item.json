@@ -1,0 +1,12 @@
+{
+    "name": "Devil Axe",
+    "type": "Axe",
+    "uses": 20,
+    "might": 20,
+    "hit": 50,
+    "weight": 20,
+    "crit": 0,
+    "range": 1,
+    "price": 45,
+    "rank": "E"
+}

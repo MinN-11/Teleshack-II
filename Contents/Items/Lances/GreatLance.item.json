@@ -1,0 +1,12 @@
+{
+    "name": "Great Lance",
+    "type": "Lance",
+    "uses": 20,
+    "might": 18,
+    "hit": 60,
+    "weight": 18,
+    "crit": 0,
+    "range": 1,
+    "price": 130,
+    "rank": "C"
+}

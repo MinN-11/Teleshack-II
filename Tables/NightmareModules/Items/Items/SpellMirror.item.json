@@ -1,0 +1,12 @@
+{
+    "name": "Spell Mirror",
+    "type": "Light",
+    "uses": 20,
+    "might": 8,
+    "hit": 70,
+    "weight": 4,
+    "crit": 0,
+    "range": [1, 2],
+    "price": 100,
+    "rank": "B"
+}

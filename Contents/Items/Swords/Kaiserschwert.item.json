@@ -1,0 +1,11 @@
+{
+    "name": "Kaiserschwert",
+    "type": "Sword",
+    "uses": 40,
+    "might": 9,
+    "hit": 80,
+    "weight": 7,
+    "crit": 30,
+    "range": 1,
+    "price": 160
+}
